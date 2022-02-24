@@ -1,4 +1,4 @@
-public class day6_java_Loop_1 {
+
     import java.io.*;
     import java.math.*;
     import java.security.*;
